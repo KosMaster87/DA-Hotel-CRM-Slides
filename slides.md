@@ -102,10 +102,6 @@ npm run build:progress
 
 ---
 
----
-layout: center
----
-
 # 🚀 Einstieg wählen
 
 Intro für neue Zuschauer:
