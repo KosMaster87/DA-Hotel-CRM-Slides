@@ -1,7 +1,7 @@
 ---
 theme: default
 title: DA Hotel CRM - Fortschritt 01
-titleTemplate: '%s'
+titleTemplate: "%s"
 info: |
   Sprint Update - Setup + erster TDD Service
 highlighter: shiki
@@ -32,13 +32,13 @@ Setup abgeschlossen, erste echte Domänen-Logik gestartet.
 
 # 🧱 Technisches Fundament (Jetzt live)
 
-| Bereich | Status | Ergebnis |
-|---|---|---|
-| Build/Dev | ✅ | Vite läuft lokal |
-| Linting | ✅ | ESLint Regeln aktiv |
-| Formatting | ✅ | Prettier im Workflow |
-| Testing | ✅ | Vitest ausführbar |
-| Git Hooks | ✅ | pre-commit + pre-push aktiv |
+| Bereich    | Status | Ergebnis                    |
+| ---------- | ------ | --------------------------- |
+| Build/Dev  | ✅     | Vite läuft lokal            |
+| Linting    | ✅     | ESLint Regeln aktiv         |
+| Formatting | ✅     | Prettier im Workflow        |
+| Testing    | ✅     | Vitest ausführbar           |
+| Git Hooks  | ✅     | pre-commit + pre-push aktiv |
 
 ---
 
@@ -52,8 +52,9 @@ Erste fachliche Regeln sind umgesetzt und getestet:
 - Hotels können deaktiviert werden
 
 ```ts
-expect(() => service.create({ name: 'city inn', city: 'berlin' }))
-  .toThrow('Hotel already exists: city inn (berlin)')
+expect(() => service.create({ name: "city inn", city: "berlin" })).toThrow(
+  "Hotel already exists: city inn (berlin)",
+);
 ```
 
 ---
