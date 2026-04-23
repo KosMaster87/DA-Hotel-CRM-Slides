@@ -1,15 +1,15 @@
 ---
 theme: default
-title: DA Hotel CRM - Projektvorstellung
+title: DA Hotel App - Projektvorstellung
 titleTemplate: "%s"
 info: |
-  DA Hotel CRM - Präsentation für Developer-Akademie Schüler & Mentor
+  DA Hotel App - Präsentation für Developer-Akademie Schüler & Mentor
 highlighter: shiki
 transition: slide-left
 mdc: true
 ---
 
-# 🏨 DA Hotel CRM
+# 🏨 DA Hotel App
 
 **Ein echtes Projekt. Echte Tools. Echte Teamarbeit.**
 
@@ -182,7 +182,7 @@ git commit -m "feat(hotels): add hotel list view with pagination"
 gh pr create --title "feat(hotels): ..."
 ```
 
-> Unser Repo: [github.com/KosMaster87/da-hotel-crm](https://github.com/KosMaster87/da-hotel-crm)
+> Unser Repo: [github.com/KosMaster87/DA-Hotel-App](https://github.com/KosMaster87/DA-Hotel-App)
 
 ---
 
@@ -206,7 +206,7 @@ Zwei Entscheidungen brauchen deinen Input, bevor wir starten:
 
 # 🚀 Let's build something real.
 
-**Repo:** [github.com/KosMaster87/da-hotel-crm](https://github.com/KosMaster87/da-hotel-crm)
+**Repo:** [github.com/KosMaster87/DA-Hotel-App](https://github.com/KosMaster87/DA-Hotel-App)
 
 Fragen? Ideen? Verbesserungsvorschläge?
 

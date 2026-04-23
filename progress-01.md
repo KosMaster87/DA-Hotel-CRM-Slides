@@ -1,6 +1,6 @@
 ---
 theme: default
-title: DA Hotel CRM - Fortschritt 01
+title: DA Hotel App - Fortschritt 01
 titleTemplate: "%s"
 info: |
   Sprint Update - Setup + erster TDD Service
@@ -9,7 +9,7 @@ transition: fade-out
 mdc: true
 ---
 
-# 📈 DA Hotel CRM - Fortschritt 01
+# 📈 DA Hotel App - Fortschritt 01
 
 Setup abgeschlossen, erste echte Domänen-Logik gestartet.
 

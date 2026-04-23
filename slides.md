@@ -1,6 +1,6 @@
 ---
 theme: default
-title: DA Hotel CRM - Slides Hub
+title: DA Hotel App - Slides Hub
 titleTemplate: "%s"
 info: |
   Zentrale Startfolie für Intro- und Fortschritts-Präsentationen
@@ -9,7 +9,7 @@ transition: fade
 mdc: true
 ---
 
-# 🎞️ DA Hotel CRM - Slides Hub
+# 🎞️ DA Hotel App - Slides Hub
 
 Zentrale Einstiegsfolie für alle Präsentationen rund um das Projekt.
 
