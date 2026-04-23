@@ -6,7 +6,13 @@
   "scripts": {
     "dev": "slidev slides.md",
     "build": "slidev build slides.md",
-    "export": "slidev export slides.md"
+    "export": "slidev export slides.md",
+    "dev:intro": "slidev progress-00-day-0-engineering-setup.md",
+    "build:intro": "slidev build progress-00-day-0-engineering-setup.md",
+    "export:intro": "slidev export progress-00-day-0-engineering-setup.md",
+    "dev:progress": "slidev progress-01.md",
+    "build:progress": "slidev build progress-01.md",
+    "export:progress": "slidev export progress-01.md"
   },
   "keywords": [],
   "author": "",
